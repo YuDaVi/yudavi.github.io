@@ -1,1 +1,1 @@
-<form action="http://formspree.io/dyuzko@email.com"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>
+<form action="https://formspree.io/f/mzbwgqqe"><input type="email" name="_replyto"><textarea   name="body"></textarea><input type="submit" value="Send"></form>s
